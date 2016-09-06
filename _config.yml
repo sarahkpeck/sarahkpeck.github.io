@@ -18,8 +18,8 @@ email: sarah.kathleen.peck@gmail.com
 description: > # WELCOME. Come on in to my corner of the internet. I am a writer, designer-entrepreneur, open-water swimmer, and urban nerd. My work dances at at the intersection of storytelling, technology, urbanism, psychology and creative design inspiration. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: sarahkpeck
+github_username:  sarahkpeck
 
 # Build settings
 markdown: kramdown
